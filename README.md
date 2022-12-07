@@ -76,3 +76,5 @@ Have(1) I(1) a(1) tapeworm?(3) => 6
 ```
 
 *Invalid Haiku*
+
+![d3c44fa80bbcb2bedafa2ed89105e4ad6177dee8-1](https://user-images.githubusercontent.com/35873877/206303963-b664bb1c-4849-4ec9-9d31-e85fd39925b8.jpeg)
