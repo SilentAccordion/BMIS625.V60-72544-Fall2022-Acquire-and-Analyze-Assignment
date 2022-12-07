@@ -1,6 +1,9 @@
 # BMIS625.V60-72544-Fall2022-Acquire-and-Analyze-Assignment
 
 
+ ![image](https://user-images.githubusercontent.com/112667258/206307351-746702cd-4e72-4abe-9a3f-65e03aeca174.png)
+
+
 ## Background
 
 Originally from Japan, Haikus are a type of short form poetry consisting of three lines that follow a '5-7-5' syllable pattern. In this assignment, we found an archive of over 20,000 'SPAM' themed haikus and looked to examine how many of these poems actually followed the traditional haiku structure.  We also analyzed other components such as most frequent non-'stop' words, which, not surprisingly, included a lot of SPAM synonyms.  
